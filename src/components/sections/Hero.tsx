@@ -154,7 +154,7 @@ export const Hero = () => {
               <Mail className="mr-3 h-6 w-6 group-hover:scale-110 transition-transform" />
               Let's Connect
             </Button>
-            <a href={KiranResume} download="Kiran-Kumar-Resume.pdf">
+            <a href={KiranResume} download="Kiran-Kumar.pdf">
               <Button
                 variant="outline"
                 size="lg"
